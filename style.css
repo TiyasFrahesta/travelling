@@ -96,6 +96,7 @@ body {
   z-index: 5;
 }
 #about {
+    margin-top:-100px;
   padding: 70px 0;
   line-height: 25px;
   color: white;
