@@ -174,7 +174,7 @@ body {
   z-index: 5;
 }
 #about {
-  padding: 70px 0;
+  padding: 10px 0;
   line-height: 25px;
   color: white;
   background-color: #f19800;
@@ -183,7 +183,7 @@ body {
   z-index: 5;
   position: relative;
   text-align: center;
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
 }
 .content hr {
