@@ -163,7 +163,7 @@ body {
   box-shadow: 5px 0px 15px rgba(85, 85, 85, 0.8);
 }
 #landing::before {
-  content: "";
+    content: "";
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -194,4 +194,3 @@ body {
     text-indent: 100px;
 }
 }
-
